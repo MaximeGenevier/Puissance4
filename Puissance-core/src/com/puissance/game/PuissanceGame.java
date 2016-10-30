@@ -9,7 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.puissance.game.screens.EcranJeu;
 
 public class PuissanceGame extends Game {
-	//YOLO
+	//YOLO OK OK 
 	@Override
 	public void create () {
 		this.setScreen(new EcranJeu());
